@@ -8,6 +8,7 @@
 ---
 
 ## 📑 Table of Contents
+- [🔗 Live link](#-live-link)
 - [📌 Features & Architecture](#-features--architecture)
 - [🗄️ Firestore Document Schemas](#️-firestore-document-schemas)
 - [📋 API Endpoints Specification](#-api-endpoints-specification)
@@ -18,6 +19,9 @@
 - [📂 Project Directory Structure](#-project-directory-structure)
 
 ---
+
+## 🔗 Live link:
+https://pari-gothi-assignment-12-event.onrender.com
 
 ## 📌 Features & Architecture
 
