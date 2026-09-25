@@ -23,6 +23,8 @@
 ## 🔗 Live link:
 https://pari-gothi-assignment-12-event.onrender.com
 
+---
+
 ## 📌 Features & Architecture
 
 1. **Role-Based Access Control (RBAC)**:
